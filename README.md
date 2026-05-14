@@ -1,5 +1,7 @@
 # Eurorack-2164-Quad-Exponential-VCA
 
+![AS2164 Quad VCA assembled](photos/front.jpg)
+
 A Eurorack Quad Exponential VCA module based on the AS2164 chip (Electric Druid, drop-in replacement for the SSI/SSM 2164).
 
 ## Features
@@ -46,7 +48,7 @@ What's ready for builders today, and what's still on the TODO list:
 
 **Documentation**
 
-- [ ] Photos of the assembled module — none yet (drop in [`photos/`](photos/))
+- [x] Photos of the assembled module — see [photos/](photos/)
 - [ ] Demo video — none yet
 - [ ] Build / assembly instructions — none yet
 - [ ] Calibration / tuning notes — none yet
