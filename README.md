@@ -31,7 +31,7 @@ A Eurorack Quad Exponential VCA module based on the AS2164 chip (Electric Druid,
 
 What's available for builders, and what's still on the TODO list:
 
-- [x] Schematic PDF (latest Rev 0.1.4) — [Eurorack-2164-Quad-Exponential-VCA-Schematic-Rev0.1.4.pdf](schematic%20pdfs/Eurorack-2164-Quad-Exponential-VCA-Schematic-Rev0.1.4.pdf)
+- [x] Schematic PDF (latest Rev 0.1.4) — [Eurorack-2164-Quad-Exponential-VCA-Schematic-Rev0.1.4.pdf](Schematic%20PDFs/Eurorack-2164-Quad-Exponential-VCA-Schematic-Rev0.1.4.pdf)
 - [x] KiCad source files — [kicad/](kicad/)
 - [ ] Gerber files for PCB fabrication — *not yet exported — generate from kicad/ before sending to a fab*
 - [ ] Bill of materials (BOM) — *not yet exported*
